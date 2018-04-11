@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mKataSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mKata[0m[0m
+[0m[[0minfo[0m] [0m[32m- must when given 'X' this should return Y[0m[0m
+[0m[[0minfo[0m] [0m[32m- must when given 'Y' this should return Z[0m[0m
+[0m[[0minfo[0m] [0m[32m- must when given 'Z' this should return X[0m[0m
